@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://orangejoker.github.io/Notebooks/</id>
+    <id>https://orangejoker.github.io/Blogs/</id>
     <title>四夕木登</title>
-    <updated>2019-08-22T03:38:23.289Z</updated>
+    <updated>2019-08-22T03:43:09.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://orangejoker.github.io/Notebooks/"/>
-    <link rel="self" href="https://orangejoker.github.io/Notebooks//atom.xml"/>
+    <link rel="alternate" href="https://orangejoker.github.io/Blogs/"/>
+    <link rel="self" href="https://orangejoker.github.io/Blogs//atom.xml"/>
     <subtitle>船到桥头自然直</subtitle>
-    <logo>https://orangejoker.github.io/Notebooks//images/avatar.png</logo>
-    <icon>https://orangejoker.github.io/Notebooks//favicon.ico</icon>
+    <logo>https://orangejoker.github.io/Blogs//images/avatar.png</logo>
+    <icon>https://orangejoker.github.io/Blogs//favicon.ico</icon>
     <rights>All rights reserved 2019, 四夕木登</rights>
     <entry>
         <title type="html"><![CDATA[谷歌访问助手]]></title>
-        <id>https://orangejoker.github.io/Notebooks//post/gu-ge-fang-wen-zhu-shou</id>
-        <link href="https://orangejoker.github.io/Notebooks//post/gu-ge-fang-wen-zhu-shou">
+        <id>https://orangejoker.github.io/Blogs//post/gu-ge-fang-wen-zhu-shou</id>
+        <link href="https://orangejoker.github.io/Blogs//post/gu-ge-fang-wen-zhu-shou">
         </link>
         <updated>2019-08-22T02:41:21.000Z</updated>
         <content type="html"><![CDATA[<h1 id="目的">目的</h1>
