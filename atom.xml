@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dev.tencent.com/u/orangejoker/p/notebook</id>
     <title>Gridea</title>
-    <updated>2019-08-22T02:19:20.711Z</updated>
+    <updated>2019-08-22T02:43:21.683Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dev.tencent.com/u/orangejoker/p/notebook"/>
     <link rel="self" href="https://dev.tencent.com/u/orangejoker/p/notebook/atom.xml"/>
@@ -10,6 +10,44 @@
     <logo>https://dev.tencent.com/u/orangejoker/p/notebook/images/avatar.png</logo>
     <icon>https://dev.tencent.com/u/orangejoker/p/notebook/favicon.ico</icon>
     <rights>All rights reserved 2019, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌访问助手]]></title>
+        <id>https://dev.tencent.com/u/orangejoker/p/notebook/post/gu-ge-fang-wen-zhu-shou</id>
+        <link href="https://dev.tencent.com/u/orangejoker/p/notebook/post/gu-ge-fang-wen-zhu-shou">
+        </link>
+        <updated>2019-08-22T02:41:21.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="目的">目的</h1>
+<ul>
+<li>可以解决chrome扩展无法自动更新的问题</li>
+<li>可以访问谷歌google搜索，gmail邮箱，google+等谷歌服务</li>
+</ul>
+<hr>
+<h1 id="准备工作">准备工作</h1>
+<ul>
+<li>获取 极简插件 网址：https://chrome.zzzmh.cn</li>
+<li>安装 Google Chrome</li>
+<li>下载 谷歌访问助手（极简插件 中进行搜索）</li>
+</ul>
+<blockquote>
+<p>Chrome 官方网址：https://www.google.com/intl/zh-CN/chrome/</p>
+</blockquote>
+<blockquote>
+<p>谷歌访问助手 商店网址：https://chrome.zzzmh.cn/info?token=gocklaboggjfkolaknpbhddbaopcepfp</p>
+</blockquote>
+<hr>
+<h1 id="操作步骤">操作步骤</h1>
+<ol>
+<li>进入 Chrome 的 扩展程序 页面（地址： chrome://extensions/）</li>
+<li>开启 开发者模式（页面右上角）</li>
+<li>将解压出的 .crx 文件变更 扩展名，改为 .zip 文件</li>
+<li>将 .zip 文件拖拽到 扩展程序 页面中即可完成安装</li>
+<li>将主页设定为指定网址，即可永久免费使用</li>
+</ol>
+<blockquote>
+<p>安装失败原因：未开启 开发者模式；文件的扩展名未改为 zip</p>
+</blockquote>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://dev.tencent.com/u/orangejoker/p/notebook/post/hello-gridea</id>
