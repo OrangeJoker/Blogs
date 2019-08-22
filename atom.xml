@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://dev.tencent.com/u/orangejoker/p/notebook</id>
+    <id>https://orangejoker.github.io/Notebooks/</id>
     <title>四夕木登</title>
-    <updated>2019-08-22T03:03:35.415Z</updated>
+    <updated>2019-08-22T03:19:02.906Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://dev.tencent.com/u/orangejoker/p/notebook"/>
-    <link rel="self" href="https://dev.tencent.com/u/orangejoker/p/notebook/atom.xml"/>
+    <link rel="alternate" href="https://orangejoker.github.io/Notebooks/"/>
+    <link rel="self" href="https://orangejoker.github.io/Notebooks//atom.xml"/>
     <subtitle>船到桥头自然直</subtitle>
-    <logo>https://dev.tencent.com/u/orangejoker/p/notebook/images/avatar.png</logo>
-    <icon>https://dev.tencent.com/u/orangejoker/p/notebook/favicon.ico</icon>
+    <logo>https://orangejoker.github.io/Notebooks//images/avatar.png</logo>
+    <icon>https://orangejoker.github.io/Notebooks//favicon.ico</icon>
     <rights>All rights reserved 2019, 四夕木登</rights>
     <entry>
         <title type="html"><![CDATA[谷歌访问助手]]></title>
-        <id>https://dev.tencent.com/u/orangejoker/p/notebook/post/gu-ge-fang-wen-zhu-shou</id>
-        <link href="https://dev.tencent.com/u/orangejoker/p/notebook/post/gu-ge-fang-wen-zhu-shou">
+        <id>https://orangejoker.github.io/Notebooks//post/gu-ge-fang-wen-zhu-shou</id>
+        <link href="https://orangejoker.github.io/Notebooks//post/gu-ge-fang-wen-zhu-shou">
         </link>
         <updated>2019-08-22T02:41:21.000Z</updated>
         <content type="html"><![CDATA[<h1 id="目的">目的</h1>
@@ -50,8 +50,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://dev.tencent.com/u/orangejoker/p/notebook/post/hello-gridea</id>
-        <link href="https://dev.tencent.com/u/orangejoker/p/notebook/post/hello-gridea">
+        <id>https://orangejoker.github.io/Notebooks//post/hello-gridea</id>
+        <link href="https://orangejoker.github.io/Notebooks//post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
