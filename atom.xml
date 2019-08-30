@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://orangejoker.github.io/Blogs/</id>
     <title>四夕木登</title>
-    <updated>2019-08-23T01:56:43.909Z</updated>
+    <updated>2019-08-30T09:21:45.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://orangejoker.github.io/Blogs/"/>
     <link rel="self" href="https://orangejoker.github.io/Blogs//atom.xml"/>
@@ -10,6 +10,31 @@
     <logo>https://orangejoker.github.io/Blogs//images/avatar.png</logo>
     <icon>https://orangejoker.github.io/Blogs//favicon.ico</icon>
     <rights>All rights reserved 2019, 四夕木登</rights>
+    <entry>
+        <title type="html"><![CDATA[scoop 使用教程]]></title>
+        <id>https://orangejoker.github.io/Blogs//post/scoop</id>
+        <link href="https://orangejoker.github.io/Blogs//post/scoop">
+        </link>
+        <updated>2019-08-30T09:05:45.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="官网">官网</h1>
+<p>https://scoop.sh</p>
+<h1 id="安装">安装</h1>
+<p>打开 powershell，执行以下命令：</p>
+<ul>
+<li>安装 scoop<br>
+<code>iex (new-object net.webclient).downloadstring('https://get.scoop.sh')</code></li>
+</ul>
+<hr>
+<ul>
+<li>安装 git<br>
+<code>scoop install git</code></li>
+<li>安装 多线程下载工具 aria2<br>
+<code>scoop install aria2</code></li>
+<li>安装（官方）扩展库<br>
+<code>scoop bucket add extras</code></li>
+</ul>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌访问助手]]></title>
         <id>https://orangejoker.github.io/Blogs//post/google-access-tool</id>
