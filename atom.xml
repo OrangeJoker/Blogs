@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://orangejoker.github.io/Blogs/</id>
-    <title>四夕木登</title>
-    <updated>2019-08-30T09:21:45.608Z</updated>
+    <title>木登人夋</title>
+    <updated>2019-08-30T09:39:50.614Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://orangejoker.github.io/Blogs/"/>
     <link rel="self" href="https://orangejoker.github.io/Blogs//atom.xml"/>
     <subtitle>船到桥头自然直</subtitle>
     <logo>https://orangejoker.github.io/Blogs//images/avatar.png</logo>
     <icon>https://orangejoker.github.io/Blogs//favicon.ico</icon>
-    <rights>All rights reserved 2019, 四夕木登</rights>
+    <rights>All rights reserved 2019, 木登人夋</rights>
     <entry>
         <title type="html"><![CDATA[scoop 使用教程]]></title>
         <id>https://orangejoker.github.io/Blogs//post/scoop</id>
@@ -20,18 +20,29 @@
 <p>https://scoop.sh</p>
 <h1 id="安装">安装</h1>
 <p>打开 powershell，执行以下命令：</p>
+<blockquote>
+<p>安装 scoop</p>
+</blockquote>
 <ul>
-<li>安装 scoop<br>
-<code>iex (new-object net.webclient).downloadstring('https://get.scoop.sh')</code></li>
+<li>iex (new-object net.webclient).downloadstring('https://get.scoop.sh')</li>
 </ul>
-<hr>
+<blockquote>
+<p>安装 git</p>
+</blockquote>
 <ul>
-<li>安装 git<br>
-<code>scoop install git</code></li>
-<li>安装 多线程下载工具 aria2<br>
-<code>scoop install aria2</code></li>
-<li>安装（官方）扩展库<br>
-<code>scoop bucket add extras</code></li>
+<li>scoop install git</li>
+</ul>
+<blockquote>
+<p>安装 多线程下载工具 aria2</p>
+</blockquote>
+<ul>
+<li>scoop install aria2</li>
+</ul>
+<blockquote>
+<p>安装（官方）扩展库</p>
+</blockquote>
+<ul>
+<li>scoop bucket add extras</li>
 </ul>
 ]]></content>
     </entry>
